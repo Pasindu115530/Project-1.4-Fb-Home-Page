@@ -94,7 +94,7 @@ nav{
     flex-basis: 47%;
 
 }
-.imp-links a{
+.imp-links a , .short-links a{
     text-decoration: none;
     display: flex;
     align-items: center;
